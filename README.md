@@ -1,27 +1,8 @@
-# Next.js + Tailwind CSS Example
+# Twordle
+Create your own Wordles — a recreation of the popular game Wordle from New York Times (originally Josh Wardle). This is a public mirror for open source. Not all code is included.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## License
+Currently none, code is for educational purposes. If you'd like to request a licensed copy let me know.
 
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Contributing
+Pull requests are open and appreciated. Create issues if you have any questions.
