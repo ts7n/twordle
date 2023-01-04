@@ -326,7 +326,7 @@ const Game: NextPage = () => {
               </div>
 
               <div>
-                <h1 className="invisible text-center text-2xl font-extrabold font-serif mb-4 w-0 -mt-[5.6rem]">{game.name}</h1>
+                <h1 className="invisible text-center text-2xl font-extrabold font-serif mb-4 w-0 -mt-[7.6rem]">{game.name}</h1>
                 {[0, 1, 2, 3, 4, 5].map((row) => {
                   return (
                     <>
