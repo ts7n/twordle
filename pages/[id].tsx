@@ -261,7 +261,7 @@ const Game: NextPage = () => {
 
                 <div className="h-24 w-24 bg-gray-50 rounded-lg mb-4 p-6 text-center items-center">
                   <span className="font-mono text-gray-400">Word</span>
-                  <h2 className="font-bold text-amber-500">{(Number(window.localStorage.getItem(`${game.id}.day`)) % game.words.length) + 1} / {game.words.length}</h2>
+                  <h2 className="font-bold text-amber-500">{(Number(window.localStorage.getItem(`${game.id}.day`)) % game.words.length) + 1}/{game.words.length}</h2>
                 </div>
               </div>
 
